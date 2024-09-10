@@ -10,7 +10,7 @@ metadata:
   annotations:
     github.com/project-slug: roxsdev/prueba-aws-eks
     backstage.io/techdocs-ref: dir:.
-    argocd/app-name: prueba-aws-eks-dev
+    argocd/app-name: prueba-aws-eks
     backstage.io/kubernetes-id: "prueba-aws-eks"
   tags:
     - golang
